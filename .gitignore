@@ -1,0 +1,12 @@
+# Dependency directory
+node_modules
+
+# Web Storm directory
+.idea
+
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
